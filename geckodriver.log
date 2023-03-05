@@ -1,0 +1,1609 @@
+1677508767137	geckodriver	INFO	Listening on 127.0.0.1:51907
+1677508772579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJbnMZo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677508773112	Marionette	INFO	Marionette enabled
+1677508773119	Marionette	INFO	Listening on port 51923
+Read port: 51923
+WebDriver BiDi listening on ws://127.0.0.1:51908
+1677508773230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:51908/devtools/browser/7561b5d0-1ac0-4dee-8d02-25d13b680079
+1677508777957	Marionette	INFO	Stopped listening on port 51923
+[Parent 18852, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1677526615233	geckodriver	INFO	Listening on 127.0.0.1:55907
+1677526620055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileNc9oXh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677526620698	Marionette	INFO	Marionette enabled
+1677526620705	Marionette	INFO	Listening on port 55918
+WebDriver BiDi listening on ws://127.0.0.1:55908
+Read port: 55918
+1677526620924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:55908/devtools/browser/8b4d1c39-19f2-4628-b6ab-ec96f07d55e9
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58572 > injectedScript line 2 > eval line 7427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58572 > injectedScript line 2 > eval line 5330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973512107127962385/app-dashboard line 58572 > injectedScript line 2 > eval line 7668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973512107127962385/app-content/privacy-policy line 58572 > injectedScript line 2 > eval line 208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677529697319	geckodriver	INFO	Listening on 127.0.0.1:58444
+1677529702186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileOh1a0n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677529702737	Marionette	INFO	Marionette enabled
+1677529702744	Marionette	INFO	Listening on port 58455
+Read port: 58455
+WebDriver BiDi listening on ws://127.0.0.1:58445
+1677529702859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:58445/devtools/browser/3334f7ef-e7ab-45b4-9b46-90b7a881e931
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58572 > injectedScript line 2 > eval line 6248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677529748564	Marionette	INFO	Stopped listening on port 58455
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677529760915	geckodriver	INFO	Listening on 127.0.0.1:58511
+1677529765734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileSMkoMX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677529766015	Marionette	INFO	Marionette enabled
+1677529766020	Marionette	INFO	Listening on port 58521
+Read port: 58521
+WebDriver BiDi listening on ws://127.0.0.1:58512
+1677529766109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:58512/devtools/browser/88791731-086f-415d-8b2f-fad5c9e9a0f2
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58572 > injectedScript line 2 > eval line 4786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58572 > injectedScript line 2 > eval line 7599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677529791241	Marionette	INFO	Stopped listening on port 58521
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677531635460	geckodriver	INFO	Listening on 127.0.0.1:59192
+1677531640427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileAi9lAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677531641004	Marionette	INFO	Marionette enabled
+1677531641011	Marionette	INFO	Listening on port 59202
+Read port: 59202
+WebDriver BiDi listening on ws://127.0.0.1:59193
+1677531641220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:59193/devtools/browser/9b4ea653-73bf-42ab-a684-12cb145115b4
+1677533613523	geckodriver	INFO	Listening on 127.0.0.1:60338
+1677533618517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileTWuPgu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677533619040	Marionette	INFO	Marionette enabled
+1677533619049	Marionette	INFO	Listening on port 60350
+Read port: 60350
+WebDriver BiDi listening on ws://127.0.0.1:60339
+1677533619289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:60339/devtools/browser/854e8c5c-8f58-473e-9707-6bad5415cf53
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58572 > injectedScript line 2 > eval line 3174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677715947553	geckodriver	INFO	Listening on 127.0.0.1:63155
+1677856833536	geckodriver	INFO	Listening on 127.0.0.1:59948
+1677856838509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile6K1e31"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677856839137	Marionette	INFO	Marionette enabled
+1677856839145	Marionette	INFO	Listening on port 59961
+Read port: 59961
+WebDriver BiDi listening on ws://127.0.0.1:59949
+1677856839257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:59949/devtools/browser/e47b8f94-40ec-450f-ab03-bb8b083ce15c
+1677856840483	Marionette	INFO	Stopped listening on port 59961
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677856853897	geckodriver	INFO	Listening on 127.0.0.1:59970
+1677856858834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4dTnwa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677856859122	Marionette	INFO	Marionette enabled
+1677856859128	Marionette	INFO	Listening on port 59981
+Read port: 59981
+WebDriver BiDi listening on ws://127.0.0.1:59971
+1677856859228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:59971/devtools/browser/cb9da5fd-aa0a-4c95-8750-8754dfda9a30
+1677856860363	Marionette	INFO	Stopped listening on port 59981
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677856867859	geckodriver	INFO	Listening on 127.0.0.1:59988
+1677856875063	geckodriver	INFO	Listening on 127.0.0.1:60001
+1677856880065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileogj53o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677856880365	Marionette	INFO	Marionette enabled
+1677856880370	Marionette	INFO	Listening on port 60012
+Read port: 60012
+WebDriver BiDi listening on ws://127.0.0.1:60002
+1677856880467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:60002/devtools/browser/51c3379e-95be-47c7-a0ec-eecf6c5444b1
+1677856881710	Marionette	INFO	Stopped listening on port 60012
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677856978682	geckodriver	INFO	Listening on 127.0.0.1:60075
+1677856983581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileISwTsP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677856983885	Marionette	INFO	Marionette enabled
+1677856983891	Marionette	INFO	Listening on port 60087
+Read port: 60087
+WebDriver BiDi listening on ws://127.0.0.1:60076
+1677856983989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:60076/devtools/browser/dc172b66-54eb-4ef3-b4c7-4015d01ca4c1
+1677856985100	Marionette	INFO	Stopped listening on port 60087
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677858647845	geckodriver	INFO	Listening on 127.0.0.1:61320
+1677858652810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile14dTFL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677858653390	Marionette	INFO	Marionette enabled
+1677858653397	Marionette	INFO	Listening on port 61331
+Read port: 61331
+WebDriver BiDi listening on ws://127.0.0.1:61321
+1677858653518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:61321/devtools/browser/3d5d594d-4819-4ee8-9dd0-ed29416ace1b
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 6502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677858670433	Marionette	INFO	Stopped listening on port 61331
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677858800950	geckodriver	INFO	Listening on 127.0.0.1:61441
+1677858805864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqImHos"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677858806181	Marionette	INFO	Marionette enabled
+1677858806187	Marionette	INFO	Listening on port 61452
+Read port: 61452
+WebDriver BiDi listening on ws://127.0.0.1:61442
+1677858806281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:61442/devtools/browser/8c9cbcf0-bbce-4ea9-b776-b476e963e962
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 3613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 5021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-dashboard line 58559 > injectedScript line 2 > eval line 6630 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 7039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 4174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 1859 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 2723 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileqImHos\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 5599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 4857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 2302 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 4347 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/ad-id-declaration line 58559 > injectedScript line 2 > eval line 4276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/app-content/government-apps line 58559 > injectedScript line 2 > eval line 207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/main-store-listing line 58559 > injectedScript line 2 > eval line 2943 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/store-settings line 58559 > injectedScript line 2 > eval line 3683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975414573709276997/tracks/production?tab=countryAvailability line 58559 > injectedScript line 2 > eval line 2654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:43:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:84:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:826:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:751:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:825:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 304: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn1.watcher2
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:43:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:84:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:826:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:751:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:825:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 1012))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:1012:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1685:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/content-script/contentScript.js, line 39: TypeError: a.parentNode is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 304: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn1.watcher2
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:43:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:84:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:826:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:751:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:825:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 304: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn1.watcher2
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677859452154	Marionette	INFO	Stopped listening on port 61452
+1677859854314	geckodriver	INFO	Listening on 127.0.0.1:62947
+1677859859346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile46TTqS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677859859864	Marionette	INFO	Marionette enabled
+1677859859871	Marionette	INFO	Listening on port 62962
+Read port: 62962
+WebDriver BiDi listening on ws://127.0.0.1:62948
+1677859859998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:62948/devtools/browser/76d91d6b-41ff-440d-aadb-3b6f77823687
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 6494 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 2468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-dashboard line 58559 > injectedScript line 2 > eval line 6738 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 7016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 1071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 6016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 2280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofile46TTqS\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 5734 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 5012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 1429 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/ad-id-declaration line 58559 > injectedScript line 2 > eval line 3014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/app-content/government-apps line 58559 > injectedScript line 2 > eval line 7445 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/main-store-listing line 58559 > injectedScript line 2 > eval line 2504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/store-settings line 58559 > injectedScript line 2 > eval line 7188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974259014475050258/tracks/production?tab=countryAvailability line 58559 > injectedScript line 2 > eval line 7347 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677860035423	Marionette	INFO	Stopped listening on port 62962
+1677866726460	geckodriver	INFO	Listening on 127.0.0.1:56425
+1677866731448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile0nf3Z6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677866731851	Marionette	INFO	Marionette enabled
+1677866731857	Marionette	INFO	Listening on port 56436
+Read port: 56436
+WebDriver BiDi listening on ws://127.0.0.1:56426
+1677866731951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:56426/devtools/browser/9ad00693-300c-4082-a24c-ea5e57fc27bc
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 1319 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 2178 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-dashboard line 58559 > injectedScript line 2 > eval line 5161 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 6924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 7752 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 2093 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 3175 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofile0nf3Z6\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 4931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 6486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 836 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 5569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/ad-id-declaration line 58559 > injectedScript line 2 > eval line 4549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/app-content/government-apps line 58559 > injectedScript line 2 > eval line 5993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/main-store-listing line 58559 > injectedScript line 2 > eval line 1108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/store-settings line 58559 > injectedScript line 2 > eval line 4587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972312546044313624/tracks/production?tab=countryAvailability line 58559 > injectedScript line 2 > eval line 6309 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677866971189	Marionette	INFO	Stopped listening on port 56436
+1677887658739	geckodriver	INFO	Listening on 127.0.0.1:50814
+1677936287842	geckodriver	INFO	Listening on 127.0.0.1:59314
+1677936292965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilemTLDey"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677936293584	Marionette	INFO	Marionette enabled
+1677936293592	Marionette	INFO	Listening on port 59325
+Read port: 59325
+WebDriver BiDi listening on ws://127.0.0.1:59315
+1677936293714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:59315/devtools/browser/58002aca-1c5a-4703-adf6-e127edac1829
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/ line 58559 > injectedScript line 2 > eval line 5474 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-dashboard line 58559 > injectedScript line 2 > eval line 2375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 3147 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 2594 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 4480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 2313 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofilemTLDey\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 3285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 7613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 3556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4972867461133034835/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 7372 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677936361335	Marionette	INFO	Stopped listening on port 59325
+[Parent 27260, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1677937489612	geckodriver	INFO	Listening on 127.0.0.1:59848
+1677937495155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileeWP859"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677937495880	Marionette	INFO	Marionette enabled
+1677937495889	Marionette	INFO	Listening on port 59862
+Read port: 59862
+WebDriver BiDi listening on ws://127.0.0.1:59849
+1677937496004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:59849/devtools/browser/339d546f-e973-49f3-8fe9-391f0d092eac
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 6056 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-dashboard line 58559 > injectedScript line 2 > eval line 6386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 1029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 6061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 4794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 3449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileeWP859\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 4027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 5934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 2020 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974269850052420794/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 1165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677937564516	Marionette	INFO	Stopped listening on port 59862
+1677942839261	geckodriver	INFO	Listening on 127.0.0.1:63364
+1677942844220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilet5cZOt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677942844759	Marionette	INFO	Marionette enabled
+1677942844766	Marionette	INFO	Listening on port 63375
+Read port: 63375
+WebDriver BiDi listening on ws://127.0.0.1:63365
+1677942844886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:63365/devtools/browser/2ffd3ab9-15f4-4e86-9ef5-1f33160aa873
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 4221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677942853712	Marionette	INFO	Stopped listening on port 63375
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677947472556	geckodriver	INFO	Listening on 127.0.0.1:49293
+1677947477194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileAY8Jgn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677947477821	Marionette	INFO	Marionette enabled
+1677947477826	Marionette	INFO	Listening on port 49304
+Read port: 49304
+WebDriver BiDi listening on ws://127.0.0.1:49294
+1677947477926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:49294/devtools/browser/506c1ddd-14bc-4871-a26f-e94d48f7a9a5
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 2080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677947489542	Marionette	INFO	Stopped listening on port 49304
+1677950289929	geckodriver	INFO	Listening on 127.0.0.1:53156
+1677950294521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileTdEp9r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677950295027	Marionette	INFO	Marionette enabled
+1677950295032	Marionette	INFO	Listening on port 53171
+Read port: 53171
+WebDriver BiDi listening on ws://127.0.0.1:53157
+1677950295145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:53157/devtools/browser/7532dd9b-278b-4a6f-93ac-ef23a634dcee
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 6539 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 5577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-dashboard line 58559 > injectedScript line 2 > eval line 5892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 6817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 7023 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileTdEp9r\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 2618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 6408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 4315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 5075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 6156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 1028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/ad-id-declaration line 58559 > injectedScript line 2 > eval line 5748 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/app-content/government-apps line 58559 > injectedScript line 2 > eval line 4974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/main-store-listing line 58559 > injectedScript line 2 > eval line 6947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/store-settings line 58559 > injectedScript line 2 > eval line 380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975836234558133504/tracks/production?tab=countryAvailability line 58559 > injectedScript line 2 > eval line 6871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677950512642	Marionette	INFO	Stopped listening on port 53171
+1677956836561	geckodriver	INFO	Listening on 127.0.0.1:57669
+1677956841972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileTXRqwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677956842596	Marionette	INFO	Marionette enabled
+1677956842604	Marionette	INFO	Listening on port 57686
+Read port: 57686
+WebDriver BiDi listening on ws://127.0.0.1:57670
+1677956842723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+DevTools listening on ws://127.0.0.1:57670/devtools/browser/33e230b9-e46d-4858-a70a-5dbc30f69bc3
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 1436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-dashboard line 58559 > injectedScript line 2 > eval line 3656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 1710 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 3167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 3230 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 1757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileTXRqwQ\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/target-audience-content line 58559 > injectedScript line 2 > eval line 3590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/news-declaration line 58559 > injectedScript line 2 > eval line 5946 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/regulated-health-apps line 58559 > injectedScript line 2 > eval line 3197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974084502779674720/app-content/data-privacy-security line 58559 > injectedScript line 2 > eval line 5722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677956913019	Marionette	INFO	Stopped listening on port 57686
+1677966120348	geckodriver	INFO	Listening on 127.0.0.1:50720
+1677966130027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilel31zfZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966131446	Marionette	INFO	Marionette enabled
+1677966131455	Marionette	INFO	Listening on port 50734
+Read port: 50734
+WebDriver BiDi listening on ws://127.0.0.1:50721
+1677966131805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50721/devtools/browser/1d6e3b46-2da9-4cac-a10d-14bbf5225b2f
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 5055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975544283169586488/app-dashboard line 58559 > injectedScript line 2 > eval line 6683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975544283169586488/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 4632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofilel31zfZ\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975544283169586488/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 970 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975544283169586488/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 7095 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975544283169586488/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 267 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677966204806	Marionette	INFO	Stopped listening on port 50734
+1677966212662	geckodriver	INFO	Listening on 127.0.0.1:50808
+1677966221014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileftwoRc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966221875	Marionette	INFO	Marionette enabled
+1677966221887	Marionette	INFO	Listening on port 50827
+Read port: 50827
+WebDriver BiDi listening on ws://127.0.0.1:50809
+1677966222015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50809/devtools/browser/ecd09405-3f12-4ce7-b319-3ba115ec209c
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 4596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974987264894997581/app-dashboard line 58559 > injectedScript line 2 > eval line 2943 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974987264894997581/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 1461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileftwoRc\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974987264894997581/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 5113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974987264894997581/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 6196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4974987264894997581/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 7742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677966291979	Marionette	INFO	Stopped listening on port 50827
+1677966304055	geckodriver	INFO	Listening on 127.0.0.1:51105
+1677966314420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofiletMCoc6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966316634	Marionette	INFO	Marionette enabled
+1677966316651	Marionette	INFO	Listening on port 51118
+Read port: 51118
+WebDriver BiDi listening on ws://127.0.0.1:51106
+1677966316862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51106/devtools/browser/184e862c-5148-4138-8a36-4a5f62757212
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/ line 58559 > injectedScript line 2 > eval line 5851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 3807 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973109840436883276/app-dashboard line 58559 > injectedScript line 2 > eval line 2708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofiletMCoc6\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973109840436883276/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 3059 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973109840436883276/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 2784 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973109840436883276/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 6224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973109840436883276/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 2465 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677966393935	Marionette	INFO	Stopped listening on port 51118
+1677966476068	geckodriver	INFO	Listening on 127.0.0.1:51451
+1677966484602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileiLTBpa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966485721	Marionette	INFO	Marionette enabled
+1677966485737	Marionette	INFO	Listening on port 51463
+Read port: 51463
+WebDriver BiDi listening on ws://127.0.0.1:51452
+1677966485899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51452/devtools/browser/81cac9d7-4c0b-4166-9f9d-9a2f4debe66d
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/ line 58559 > injectedScript line 2 > eval line 7070 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 2344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofileiLTBpa\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975282803124041924/app-dashboard line 58559 > injectedScript line 2 > eval line 945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975282803124041924/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 3471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975282803124041924/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 1565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975282803124041924/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 6240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4975282803124041924/main-store-listing line 58559 > injectedScript line 2 > eval line 6697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677966558528	geckodriver	INFO	Listening on 127.0.0.1:51644
+1677966566987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile1oW7lK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966568161	Marionette	INFO	Marionette enabled
+1677966568171	Marionette	INFO	Listening on port 51656
+Read port: 51656
+WebDriver BiDi listening on ws://127.0.0.1:51645
+1677966568320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51645/devtools/browser/757127f2-7782-42cd-9ff6-3257363b1517
+Extension error: TypeError: a is not a function moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://4628614c-e0c8-4072-97f4-caae5b4646eb/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app-list line 58559 > injectedScript line 2 > eval line 3120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/create-new-app line 58559 > injectedScript line 2 > eval line 4689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/app-dashboard line 58559 > injectedScript line 2 > eval line 2825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\DELL\AppData\Local\Temp\rust_mozprofile1oW7lK\thumbnails) because it does not exist
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/app-content/privacy-policy line 58559 > injectedScript line 2 > eval line 6767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/app-content/ads-declaration line 58559 > injectedScript line 2 > eval line 1269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/app-content/testing-credentials line 58559 > injectedScript line 2 > eval line 1393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/app-content/content-rating-overview line 58559 > injectedScript line 2 > eval line 2359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://play.google.com/console/u/0/developers/8337348834814397257/app/4973463648380926165/main-store-listing line 58559 > injectedScript line 2 > eval line 7414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
