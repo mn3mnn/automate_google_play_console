@@ -1,6 +1,6 @@
 # automate_google_play_console
 
-## automate the steps of adding a new app in google play console (for developers account) using selenium python.
+## automate the steps of adding a new app in the google play console (for developers' accounts) using python selenium.
 
 - code snippet from sendGooglePlayData.py
 
