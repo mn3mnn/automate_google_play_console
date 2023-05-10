@@ -1,6 +1,6 @@
 # automate_google_play_console
 
-## automate the steps of adding a new app in google play console (for developers account) using python selenium and c++ WinForms.
+## automate the steps of adding a new app in google play console (for developers account) using selenium python.
 
 - code snippet from sendGooglePlayData.py
 
